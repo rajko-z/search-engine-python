@@ -1,4 +1,8 @@
 # Search-Engine-Python
+![](https://img.shields.io/badge/search-engine-blue)
+![](https://img.shields.io/badge/trie-data--structure-brightgreen)
+![](https://img.shields.io/badge/python%203.8.3-docts--html-blue)
+
 
 Search engine console application based on **python-3.8.3-docs-html**
 
